@@ -17,3 +17,9 @@ for link in links:
 
 new_browser = mechanicalsoup.Browser()
 primer_page = new_browser.get(urls_to_follow[0])
+
+rows = primer_page.soup.findAll('tr')
+
+for i in range(1,21):
+    link = rows[i].find('a')
+    print(link.text)
