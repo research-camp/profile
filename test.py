@@ -14,3 +14,6 @@ urls_to_follow = []
 for link in links:
 	new_url = front_page.url[:-16] + link['href']
 	urls_to_follow.append(new_url)
+
+new_browser = mechanicalsoup.Browser()
+primer_page = new_browser.get(urls_to_follow[0])
