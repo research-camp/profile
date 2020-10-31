@@ -15,23 +15,24 @@ for link in links:
 	new_url = front_page.url[:-16] + link['href']
 	urls_to_follow.append(new_url)
 
-for web in urls_to_follow:	
+for web in urls_to_follow[:5]:	
 
 	new_browser = mechanicalsoup.Browser()
 	league = new_browser.get(web)
 
 	rows = league.soup.findAll('tr')
-	name = league.soup.find('a', {'class':'football-matches_heading'})
+	name = league.soup.find('caption')
 
-	print(f'>> {name.text}')
+	print(f'\n>> {name.text.strip()}')
 
 	for i in range(1,len(rows)):
-		link = rows[i].find('a')
+		print(f'{i}.', end="")
 		try:
-			print(strip(link.text))
+			link = rows[i].find('a')
+			print(link.text.strip())
 		except:
 			try:
 				team = rows[i].find('span')
-				print(strip(team.text))
+				print(team.text.strip())
 			except:
 				print('NVFA')
