@@ -27,4 +27,11 @@ for web in urls_to_follow:
 
 	for i in range(1,len(rows)):
 		link = rows[i].find('a')
-		print(link.text, end="")
+		try:
+			print(strip(link.text))
+		except:
+			try:
+				team = rows[i].find('span')
+				print(strip(team.text))
+			except:
+				print('NVFA')
