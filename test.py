@@ -15,11 +15,16 @@ for link in links:
 	new_url = front_page.url[:-16] + link['href']
 	urls_to_follow.append(new_url)
 
-new_browser = mechanicalsoup.Browser()
-primer_page = new_browser.get(urls_to_follow[0])
+for web in urls_to_follow:	
 
-rows = primer_page.soup.findAll('tr')
+	new_browser = mechanicalsoup.Browser()
+	league = new_browser.get(web)
 
-for i in range(1,21):
-    link = rows[i].find('a')
-    print(link.text)
+	rows = league.soup.findAll('tr')
+	name = league.soup.find('a', {'class':'football-matches_heading'})
+
+	print(f'>> {name.text}')
+
+	for i in range(1,len(rows)):
+		link = rows[i].find('a')
+		print(link.text, end="")
