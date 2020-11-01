@@ -29,10 +29,12 @@ for web in urls_to_follow[:5]:
 		print(f'{i}.', end="")
 		try:
 			link = rows[i].find('a')
-			print(link.text.strip())
+			print(link.text.strip(), end="")
 		except:
 			try:
 				team = rows[i].find('span')
-				print(team.text.strip())
+				print(team.text.strip(), end="")
 			except:
-				print('NVFA')
+				print('NVFA', end="")
+		points = rows[i].find('b')
+		print(f" : {points.text.strip()}")
