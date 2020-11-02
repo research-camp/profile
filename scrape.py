@@ -2,9 +2,10 @@ import mechanicalsoup
 
 
 def single_pattern(urls_to_follow):
-	for web in urls_to_follow: # the pattern changes after row 6
+	# this pattern is a single table with 10 to 21 rows
+	for web in urls_to_follow: 
 
-		new_browser = mechanicalsoup.Browser()
+		new_browser = mechanicalsoup.Browser() # creating a new browser page
 		league = new_browser.get(web)
 
 		rows = league.soup.findAll('tr') # get all the table lines
@@ -28,8 +29,10 @@ def single_pattern(urls_to_follow):
 
 
 def tables_pattern(urls_to_follow):
-	for web in urls_to_follow: # this is the middle tables in different pattern
-		new_browser = mechanicalsoup.Browser()
+	# this pattern is a multi table page that has 4 to 12 tables init
+	for web in urls_to_follow: 
+
+		new_browser = mechanicalsoup.Browser() # creating a new browser page
 		league = new_browser.get(web)
 
 		divisons = league.soup.findAll('div', {'class':'football__group'})
@@ -37,7 +40,7 @@ def tables_pattern(urls_to_follow):
 
 		print(f'\n>> {name.text.strip()}')
 
-		for div in divisons: # these pages have a bit different pattern
+		for div in divisons: # scraping each table with row init
 			print(f'{div.h4.text.strip()}')
 
 			rows = div.findAll('tr')
