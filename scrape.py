@@ -5,6 +5,7 @@ from utils import save_to_now
 
 def single_pattern(urls_to_follow):
 	# this pattern is a single table with 10 to 21 rows
+	final_string = ""
 	for web in urls_to_follow: 
 
 		new_browser = mechanicalsoup.Browser() # creating a new browser page
@@ -13,25 +14,28 @@ def single_pattern(urls_to_follow):
 		rows = league.soup.findAll('tr') # get all the table lines
 		name = league.soup.find('caption') # get the league name
 
-		print(f'\n>> {name.text.strip()}')
+		final_string += f'\n>> {name.text.strip()}\n'
 
 		for i in range(1,len(rows)): # an iteration over table rows
-			print(f'{i}.', end="")
+			final_string += f'{i}.'
 			try:
 				link = rows[i].find('a')
-				print(link.text.strip(), end="")
+				final_string += link.text.strip()
 			except:
 				try:
 					team = rows[i].find('span')
-					print(team.text.strip(), end="")
+					final_string += team.text.strip()
 				except:
-					print('NVFA', end="")
+					final_string += 'NVFA'
 			points = rows[i].find('b')
-			print(f" : {points.text.strip()}")
+			final_string += f" : {points.text.strip()}\n"
+
+	save_to_now(final_string) # saving the whole thing inside a text file
 
 
 def tables_pattern(urls_to_follow):
 	# this pattern is a multi table page that has 4 to 12 tables init
+	final_string = ""
 	for web in urls_to_follow: 
 
 		new_browser = mechanicalsoup.Browser() # creating a new browser page
@@ -40,23 +44,25 @@ def tables_pattern(urls_to_follow):
 		divisons = league.soup.findAll('div', {'class':'football__group'})
 		name = league.soup.find('caption')
 
-		print(f'\n>> {name.text.strip()}')
+		final_string += f'\n>> {name.text.strip()}\n'
 
 		for div in divisons: # scraping each table with row init
-			print(f'{div.h4.text.strip()}')
+			final_string += f'{div.h4.text.strip()}\n'
 
 			rows = div.findAll('tr')
 
 			for i in range(1,len(rows)):
-				print(f'    {i}.', end="")
+				final_string += f'    {i}.'
 				try:
 					link = rows[i].find('a')
-					print(link.text.strip(), end="")
+					final_string += link.text.strip()
 				except:
 					try:
 						team = rows[i].find('span')
-						print(team.text.strip(), end="")
+						final_string += team.text.strip()
 					except:
-						print('NVFA', end="")
+						final_string += 'NVFA'
 				points = rows[i].find('b')
-				print(f" : {points.text.strip()}")		
+				final_string += f" : {points.text.strip()}\n"	
+
+	save_to_now(final_string) # saving the whole thing inside a text file	
