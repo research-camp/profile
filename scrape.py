@@ -1,5 +1,7 @@
 import mechanicalsoup
 
+from utils import save_to_now
+
 
 def single_pattern(urls_to_follow):
 	# this pattern is a single table with 10 to 21 rows

@@ -1,6 +1,7 @@
 import mechanicalsoup
 
 from scrape import single_pattern, tables_pattern
+from utils import init_filem, save_to_now
 
 
 url = 'https://www.theguardian.com/football/tables' # web site we use for data
@@ -10,9 +11,15 @@ DOMAIN_NAME = 'https://www.theguardian.com/'
 def init():
 	global url
 
+	init_file() # creating the output files
+
 	browser = mechanicalsoup.Browser() # creating a new browser
 
-	front_page = browser.get(url) # getting the first page
+	try:
+		front_page = browser.get(url) # getting the first page
+	except (e,): # hadeling the connection or any errors
+		save_to_now(str(e))
+
 	soup_front = front_page.soup
 
 	links = soup_front.findAll('a', {'class':'full-table-link'}) 

@@ -24,4 +24,10 @@ def init_file():
 
 
 def save_to_now(string):
+	year_dir = "./" + datetime.datetime.now().strftime("%Y") + "/"
+	month_dir = datetime.datetime.now().strftime("%m") + "/"
+	name = datetime.datetime.now().strftime("%d")
+	file_path = year_dir + month_dir + name + FORMAT
+	with open(file_path, 'a+') as file:
+		file.write(string)
 	
