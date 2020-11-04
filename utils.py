@@ -35,7 +35,25 @@ def save_to_now(string):
 	year_dir = datetime.datetime.now().strftime("%Y") + "/"
 	month_dir = datetime.datetime.now().strftime("%m") + "/"
 	name = datetime.datetime.now().strftime("%d") + "/"
-	file_path =MAIN_DIR + year_dir + month_dir + name + "doc" + FORMAT
+	file_path = MAIN_DIR + year_dir + month_dir + name + "doc" + FORMAT
 	with open(file_path, 'a+') as file:
 		file.write(string)
+
+
+def save_to_html(title, dictionary):
+	year_dir = datetime.datetime.now().strftime("%Y") + "/"
+	month_dir = datetime.datetime.now().strftime("%m") + "/"
+	name = datetime.datetime.now().strftime("%d") + "/"
+	file_path = MAIN_DIR + year_dir + month_dir + name + "table" + TABLE_FORMAT
+
+	x = PrettyTable([" ", "Team name", "Points"])
+
+	for index in dictionary.keys():
+		name = dictionary[index][0]
+		point = dictionary[index][1]
+		x.add_row([index, name, point])
+
+	with open(file_path,'a+') as file:
+		file.write(x.get_string(title=title))
+
 	
