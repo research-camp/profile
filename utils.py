@@ -56,4 +56,12 @@ def save_to_html(title, dictionary):
 	with open(file_path,'a+') as file:
 		file.write(x.get_string(title=title))
 
-	
+
+def write_in_html(string):	
+	year_dir = datetime.datetime.now().strftime("%Y") + "/"
+	month_dir = datetime.datetime.now().strftime("%m") + "/"
+	name = datetime.datetime.now().strftime("%d") + "/"
+	file_path = MAIN_DIR + year_dir + month_dir + name + "table" + TABLE_FORMAT
+
+	with open(file_path,'a+') as file:
+		file.write(string)
