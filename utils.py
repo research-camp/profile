@@ -54,7 +54,7 @@ def save_to_html(title, dictionary):
 		x.add_row([index, name, point])
 
 	with open(file_path,'a+') as file:
-		file.write(x.get_string(title=title))
+		file.write(x.get_html_string(title=title))
 
 
 def write_in_html(string):	

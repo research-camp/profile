@@ -47,8 +47,6 @@ def tables_pattern(urls_to_follow):
 	final_string = ""
 	for web in urls_to_follow: 
 
-		final_dic = {}
-
 		new_browser = mechanicalsoup.Browser() # creating a new browser page
 		league = new_browser.get(web)
 
@@ -60,6 +58,8 @@ def tables_pattern(urls_to_follow):
 
 		for div in divisons: # scraping each table with row init
 			final_string += f'{div.h4.text.strip()}\n'
+			
+			final_dic = {}
 
 			rows = div.findAll('tr')
 
@@ -82,6 +82,6 @@ def tables_pattern(urls_to_follow):
 				final_string += f" : {points.text.strip()}\n"
 				final_dic[str(i)].append(points.text.strip())
 
-		save_to_html(name.text.strip(), final_dic)	
+			save_to_html(div.h4.text.strip(), final_dic)
 
 	save_to_now(final_string) # saving the whole thing inside a text file	
