@@ -2,6 +2,7 @@ import os
 import datetime
 
 from prettytable import PrettyTable
+from layout import import_commands
 
 
 MAIN_DIR = "./docs/"
@@ -65,3 +66,12 @@ def write_in_html(string):
 
 	with open(file_path,'a+') as file:
 		file.write(string)
+
+
+def layout_import():
+	year_dir = datetime.datetime.now().strftime("%Y") + "/"
+	month_dir = datetime.datetime.now().strftime("%m") + "/"
+	name = datetime.datetime.now().strftime("%d") + "/"
+	file_path = MAIN_DIR + year_dir + month_dir + name + "table" + TABLE_FORMAT
+
+	import_commands(file_path)

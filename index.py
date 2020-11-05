@@ -1,7 +1,7 @@
 import mechanicalsoup
 
 from scrape import single_pattern, tables_pattern
-from utils import init_file, save_to_now
+from utils import init_file, save_to_now, layout_import
 
 
 url = 'https://www.theguardian.com/football/tables' # web site we use for data
@@ -43,6 +43,8 @@ def init():
 	# the normal pattern
 	tables_pattern(urls_to_follow[-2:]) 
 	# this is the last2 tables in different pattern
+
+	layout_import()
 
 	print("> Operation complete.")
 
