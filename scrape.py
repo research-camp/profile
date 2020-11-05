@@ -36,8 +36,14 @@ def single_pattern(urls_to_follow):
 					final_dic[str(i)].append('NVFA')
 			points = rows[i].find('b')
 			final_string += f" GP: {cols[2].text.strip()}"
+			final_string += f" W : {cols[3].text.strip()}"
+			final_string += f" D : {cols[4].text.strip()}"
+			final_string += f" L : {cols[5].text.strip()}"
 			final_string += f" Pts: {points.text.strip()}\n"
 			final_dic[str(i)].append(cols[2].text.strip())
+			final_dic[str(i)].append(cols[3].text.strip())
+			final_dic[str(i)].append(cols[4].text.strip())
+			final_dic[str(i)].append(cols[5].text.strip())
 			final_dic[str(i)].append(points.text.strip())
 
 		save_to_html(name.text.strip(), final_dic)
@@ -84,8 +90,14 @@ def tables_pattern(urls_to_follow):
 						final_dic[str(i)].append('NVFA')
 				points = rows[i].find('b')
 				final_string += f" GP: {cols[2].text.strip()}"
+				final_string += f" W : {cols[3].text.strip()}"
+				final_string += f" D : {cols[4].text.strip()}"
+				final_string += f" L : {cols[5].text.strip()}"
 				final_string += f" Pts: {points.text.strip()}\n"
 				final_dic[str(i)].append(cols[2].text.strip())
+				final_dic[str(i)].append(cols[3].text.strip())
+				final_dic[str(i)].append(cols[4].text.strip())
+				final_dic[str(i)].append(cols[5].text.strip())
 				final_dic[str(i)].append(points.text.strip())
 
 			save_to_html(div.h4.text.strip(), final_dic)
