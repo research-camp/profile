@@ -46,12 +46,13 @@ def save_to_html(title, dictionary):
 	name = datetime.datetime.now().strftime("%d") + "/"
 	file_path = MAIN_DIR + year_dir + month_dir + name + "table" + TABLE_FORMAT
 
-	x = PrettyTable([" ", "Team name", "Points"])
+	x = PrettyTable(["Rank", "Team name", "Game play", "Points"])
 
 	for index in dictionary.keys():
 		name = dictionary[index][0]
-		point = dictionary[index][1]
-		x.add_row([index, name, point])
+		play = dictionary[index][1]
+		point = dictionary[index][2]
+		x.add_row([index, name, play, point])
 
 	with open(file_path,'a+') as file:
 		file.write(x.get_html_string(title=title))
