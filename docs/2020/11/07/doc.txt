@@ -1,0 +1,544 @@
+> November 07 2020 - 08:17 AM
+
+
+>> Premier League
+1.Southampton GP: 8 W : 5 D : 1 L : 2 Pts: 16
+2.Liverpool GP: 7 W : 5 D : 1 L : 1 Pts: 16
+3.Leicester GP: 7 W : 5 D : 0 L : 2 Pts: 15
+4.Spurs GP: 7 W : 4 D : 2 L : 1 Pts: 14
+5.Everton GP: 7 W : 4 D : 1 L : 2 Pts: 13
+6.Wolves GP: 7 W : 4 D : 1 L : 2 Pts: 13
+7.Chelsea GP: 7 W : 3 D : 3 L : 1 Pts: 12
+8.Aston Villa GP: 6 W : 4 D : 0 L : 2 Pts: 12
+9.Arsenal GP: 7 W : 4 D : 0 L : 3 Pts: 12
+10.Man City GP: 6 W : 3 D : 2 L : 1 Pts: 11
+11.Newcastle GP: 8 W : 3 D : 2 L : 3 Pts: 11
+12.Leeds GP: 7 W : 3 D : 1 L : 3 Pts: 10
+13.C Palace GP: 7 W : 3 D : 1 L : 3 Pts: 10
+14.West Ham GP: 7 W : 2 D : 2 L : 3 Pts: 8
+15.Man Utd GP: 6 W : 2 D : 1 L : 3 Pts: 7
+16.Brighton GP: 8 W : 1 D : 3 L : 4 Pts: 6
+17.Fulham GP: 7 W : 1 D : 1 L : 5 Pts: 4
+18.West Brom GP: 7 W : 0 D : 3 L : 4 Pts: 3
+19.Burnley GP: 7 W : 0 D : 2 L : 5 Pts: 2
+20.Sheff Utd GP: 7 W : 0 D : 1 L : 6 Pts: 1
+
+>> Bundesliga
+1.Bayern GP: 6 W : 5 D : 0 L : 1 Pts: 15
+2.Dortmund GP: 6 W : 5 D : 0 L : 1 Pts: 15
+3.RB Leipzig GP: 6 W : 4 D : 1 L : 1 Pts: 13
+4.Leverkusen GP: 6 W : 3 D : 3 L : 0 Pts: 12
+5.M'gladbach GP: 6 W : 3 D : 2 L : 1 Pts: 11
+6.Augsburg GP: 6 W : 3 D : 1 L : 2 Pts: 10
+7.Werder Bremen GP: 7 W : 2 D : 4 L : 1 Pts: 10
+8.Stuttgart GP: 6 W : 2 D : 3 L : 1 Pts: 9
+9.Union Berlin GP: 6 W : 2 D : 3 L : 1 Pts: 9
+10.Eintracht Frankfurt GP: 6 W : 2 D : 3 L : 1 Pts: 9
+11.Wolfsburg GP: 6 W : 1 D : 5 L : 0 Pts: 8
+12.Hoffenheim GP: 6 W : 2 D : 1 L : 3 Pts: 7
+13.Freiburg GP: 6 W : 1 D : 3 L : 2 Pts: 6
+14.Hertha Berlin GP: 6 W : 1 D : 1 L : 4 Pts: 4
+15.Arminia Bielefeld GP: 6 W : 1 D : 1 L : 4 Pts: 4
+16.Cologne GP: 7 W : 0 D : 3 L : 4 Pts: 3
+17.Schalke GP: 6 W : 0 D : 2 L : 4 Pts: 2
+18.Mainz GP: 6 W : 0 D : 0 L : 6 Pts: 0
+
+>> Serie A
+1.AC Milan GP: 6 W : 5 D : 1 L : 0 Pts: 16
+2.Sassuolo GP: 7 W : 4 D : 3 L : 0 Pts: 15
+3.Juventus GP: 6 W : 3 D : 3 L : 0 Pts: 12
+4.Atalanta GP: 6 W : 4 D : 0 L : 2 Pts: 12
+5.Napoli GP: 6 W : 4 D : 0 L : 2 Pts: 11
+6.Inter GP: 6 W : 3 D : 2 L : 1 Pts: 11
+7.Verona GP: 6 W : 3 D : 2 L : 1 Pts: 11
+8.Roma GP: 6 W : 3 D : 2 L : 1 Pts: 11
+9.Sampdoria GP: 6 W : 3 D : 1 L : 2 Pts: 10
+10.Lazio GP: 6 W : 3 D : 1 L : 2 Pts: 10
+11.Fiorentina GP: 6 W : 2 D : 1 L : 3 Pts: 7
+12.Cagliari GP: 6 W : 2 D : 1 L : 3 Pts: 7
+13.Bologna GP: 6 W : 2 D : 0 L : 4 Pts: 6
+14.Benevento GP: 6 W : 2 D : 0 L : 4 Pts: 6
+15.Parma GP: 6 W : 1 D : 2 L : 3 Pts: 5
+16.Genoa GP: 6 W : 1 D : 2 L : 3 Pts: 5
+17.Spezia GP: 6 W : 1 D : 2 L : 3 Pts: 5
+18.Torino GP: 6 W : 1 D : 1 L : 4 Pts: 4
+19.Udinese GP: 7 W : 1 D : 1 L : 5 Pts: 4
+20.Crotone GP: 6 W : 0 D : 1 L : 5 Pts: 1
+
+>> La Liga
+1.Real Sociedad GP: 8 W : 5 D : 2 L : 1 Pts: 17
+2.Real Madrid GP: 7 W : 5 D : 1 L : 1 Pts: 16
+3.Villarreal GP: 8 W : 4 D : 3 L : 1 Pts: 15
+4.Atlético GP: 6 W : 4 D : 2 L : 0 Pts: 14
+5.Cadiz GP: 8 W : 4 D : 2 L : 2 Pts: 14
+6.Granada GP: 7 W : 4 D : 2 L : 1 Pts: 14
+7.Real Betis GP: 8 W : 4 D : 0 L : 4 Pts: 12
+8.Getafe GP: 7 W : 3 D : 2 L : 2 Pts: 11
+9.Elche GP: 7 W : 3 D : 2 L : 2 Pts: 11
+10.Osasuna GP: 7 W : 3 D : 1 L : 3 Pts: 10
+11.A Bilbao GP: 7 W : 3 D : 0 L : 4 Pts: 9
+12.Barcelona GP: 6 W : 2 D : 2 L : 2 Pts: 8
+13.Valencia GP: 8 W : 2 D : 2 L : 4 Pts: 8
+14.Alaves GP: 8 W : 2 D : 2 L : 4 Pts: 8
+15.Eibar GP: 8 W : 2 D : 2 L : 4 Pts: 8
+16.Sevilla GP: 6 W : 2 D : 1 L : 3 Pts: 7
+17.Celta Vigo GP: 9 W : 1 D : 4 L : 4 Pts: 7
+18.Levante GP: 7 W : 1 D : 2 L : 4 Pts: 5
+19.Huesca GP: 8 W : 0 D : 5 L : 3 Pts: 5
+20.Valladolid GP: 8 W : 0 D : 3 L : 5 Pts: 3
+
+>> Ligue 1
+1.PSG GP: 9 W : 7 D : 0 L : 2 Pts: 21
+2.Lille GP: 9 W : 5 D : 4 L : 0 Pts: 19
+3.Rennes GP: 9 W : 5 D : 3 L : 1 Pts: 18
+4.Marseille GP: 9 W : 5 D : 3 L : 1 Pts: 18
+5.Nice GP: 9 W : 5 D : 2 L : 2 Pts: 17
+6.Lyon GP: 9 W : 3 D : 5 L : 1 Pts: 14
+7.Metz GP: 9 W : 4 D : 2 L : 3 Pts: 14
+8.Monaco GP: 9 W : 4 D : 2 L : 3 Pts: 14
+9.Montpellier GP: 9 W : 4 D : 2 L : 3 Pts: 14
+10.Lens GP: 7 W : 4 D : 1 L : 2 Pts: 13
+11.Angers GP: 9 W : 4 D : 1 L : 4 Pts: 13
+12.Bordeaux GP: 9 W : 3 D : 3 L : 3 Pts: 12
+13.St Etienne GP: 9 W : 3 D : 1 L : 5 Pts: 10
+14.Brest GP: 9 W : 3 D : 0 L : 6 Pts: 9
+15.Reims GP: 9 W : 2 D : 2 L : 5 Pts: 8
+16.Lorient GP: 9 W : 2 D : 2 L : 5 Pts: 8
+17.Nantes GP: 8 W : 2 D : 2 L : 4 Pts: 8
+18.Nimes GP: 9 W : 2 D : 2 L : 5 Pts: 8
+19.Strasbourg GP: 10 W : 2 D : 0 L : 8 Pts: 6
+20.Dijon GP: 9 W : 0 D : 3 L : 6 Pts: 3
+
+>> Women's Super League
+1.Arsenal Women GP: 5 W : 5 D : 0 L : 0 Pts: 15
+2.Everton Women GP: 5 W : 4 D : 1 L : 0 Pts: 13
+3.Man Utd Women GP: 5 W : 4 D : 1 L : 0 Pts: 13
+4.Chelsea Women GP: 4 W : 3 D : 1 L : 0 Pts: 10
+5.Man City Women GP: 5 W : 2 D : 2 L : 1 Pts: 8
+6.Reading Women GP: 5 W : 2 D : 1 L : 2 Pts: 7
+7.Birmingham City Women GP: 5 W : 2 D : 0 L : 3 Pts: 6
+8.Brighton & Hove Albion Women GP: 5 W : 1 D : 2 L : 2 Pts: 5
+9.Tottenham Hotspur Women GP: 5 W : 0 D : 1 L : 4 Pts: 1
+10.West Ham Women GP: 5 W : 0 D : 1 L : 4 Pts: 1
+11.Aston Villa Women GP: 3 W : 0 D : 0 L : 3 Pts: 0
+12.Bristol City Women GP: 4 W : 0 D : 0 L : 4 Pts: 0
+
+>> Champions League
+Group A
+    1.Bayern GP: 3 W : 3 D : 0 L : 0 Pts: 9
+    2.Atlético GP: 3 W : 1 D : 1 L : 1 Pts: 4
+    3.Lokomotiv Moscow GP: 3 W : 0 D : 2 L : 1 Pts: 2
+    4.Red Bull Salzburg GP: 3 W : 0 D : 1 L : 2 Pts: 1
+Group B
+    1.M'gladbach GP: 3 W : 1 D : 2 L : 0 Pts: 5
+    2.Shakhtar GP: 3 W : 1 D : 1 L : 1 Pts: 4
+    3.Real Madrid GP: 3 W : 1 D : 1 L : 1 Pts: 4
+    4.Inter GP: 3 W : 0 D : 2 L : 1 Pts: 2
+Group C
+    1.Man City GP: 3 W : 3 D : 0 L : 0 Pts: 9
+    2.Porto GP: 3 W : 2 D : 0 L : 1 Pts: 6
+    3.Olympiacos GP: 3 W : 1 D : 0 L : 2 Pts: 3
+    4.Marseille GP: 3 W : 0 D : 0 L : 3 Pts: 0
+Group D
+    1.Liverpool GP: 3 W : 3 D : 0 L : 0 Pts: 9
+    2.Ajax GP: 3 W : 1 D : 1 L : 1 Pts: 4
+    3.Atalanta GP: 3 W : 1 D : 1 L : 1 Pts: 4
+    4.FC Midtjylland GP: 3 W : 0 D : 0 L : 3 Pts: 0
+Group E
+    1.Chelsea GP: 3 W : 2 D : 1 L : 0 Pts: 7
+    2.Sevilla GP: 3 W : 2 D : 1 L : 0 Pts: 7
+    3.Krasnodar GP: 3 W : 0 D : 1 L : 2 Pts: 1
+    4.Rennes GP: 3 W : 0 D : 1 L : 2 Pts: 1
+Group F
+    1.Dortmund GP: 3 W : 2 D : 0 L : 1 Pts: 6
+    2.Lazio GP: 3 W : 1 D : 2 L : 0 Pts: 5
+    3.Club Brugge GP: 3 W : 1 D : 1 L : 1 Pts: 4
+    4.Zenit GP: 3 W : 0 D : 1 L : 2 Pts: 1
+Group G
+    1.Barcelona GP: 3 W : 3 D : 0 L : 0 Pts: 9
+    2.Juventus GP: 3 W : 2 D : 0 L : 1 Pts: 6
+    3.Dynamo Kyiv GP: 3 W : 0 D : 1 L : 2 Pts: 1
+    4.Ferencvaros GP: 3 W : 0 D : 1 L : 2 Pts: 1
+Group H
+    1.Man Utd GP: 3 W : 2 D : 0 L : 1 Pts: 6
+    2.RB Leipzig GP: 3 W : 2 D : 0 L : 1 Pts: 6
+    3.PSG GP: 3 W : 1 D : 0 L : 2 Pts: 3
+    4.Istanbul Basaksehir GP: 3 W : 1 D : 0 L : 2 Pts: 3
+
+>> Euro 2020 qualifying
+Group A
+    1.England GP: 8 W : 7 D : 0 L : 1 Pts: 21
+    2.Czech Republic GP: 8 W : 5 D : 0 L : 3 Pts: 15
+    3.Kosovo GP: 8 W : 3 D : 2 L : 3 Pts: 11
+    4.Bulgaria GP: 8 W : 1 D : 3 L : 4 Pts: 6
+    5.Montenegro GP: 8 W : 0 D : 3 L : 5 Pts: 3
+Group B
+    1.Ukraine GP: 8 W : 6 D : 2 L : 0 Pts: 20
+    2.Portugal GP: 8 W : 5 D : 2 L : 1 Pts: 17
+    3.Serbia GP: 8 W : 4 D : 2 L : 2 Pts: 14
+    4.Luxembourg GP: 8 W : 1 D : 1 L : 6 Pts: 4
+    5.Lithuania GP: 8 W : 0 D : 1 L : 7 Pts: 1
+Group C
+    1.Germany GP: 8 W : 7 D : 0 L : 1 Pts: 21
+    2.The Netherlands GP: 8 W : 6 D : 1 L : 1 Pts: 19
+    3.Northern Ireland GP: 8 W : 4 D : 1 L : 3 Pts: 13
+    4.Belarus GP: 8 W : 1 D : 1 L : 6 Pts: 4
+    5.Estonia GP: 8 W : 0 D : 1 L : 7 Pts: 1
+Group D
+    1.Switzerland GP: 8 W : 5 D : 2 L : 1 Pts: 17
+    2.Denmark GP: 8 W : 4 D : 4 L : 0 Pts: 16
+    3.Rep of Ireland GP: 8 W : 3 D : 4 L : 1 Pts: 13
+    4.Georgia GP: 8 W : 2 D : 2 L : 4 Pts: 8
+    5.Gibraltar GP: 8 W : 0 D : 0 L : 8 Pts: 0
+Group E
+    1.Croatia GP: 8 W : 5 D : 2 L : 1 Pts: 17
+    2.Wales GP: 8 W : 4 D : 2 L : 2 Pts: 14
+    3.Slovakia GP: 8 W : 4 D : 1 L : 3 Pts: 13
+    4.Hungary GP: 8 W : 4 D : 0 L : 4 Pts: 12
+    5.Azerbaijan GP: 8 W : 0 D : 1 L : 7 Pts: 1
+Group F
+    1.Spain GP: 10 W : 8 D : 2 L : 0 Pts: 26
+    2.Sweden GP: 10 W : 6 D : 3 L : 1 Pts: 21
+    3.Norway GP: 10 W : 4 D : 5 L : 1 Pts: 17
+    4.Romania GP: 10 W : 4 D : 2 L : 4 Pts: 14
+    5.Faroe Islands GP: 10 W : 1 D : 0 L : 9 Pts: 3
+    6.Malta GP: 10 W : 1 D : 0 L : 9 Pts: 3
+Group G
+    1.Poland GP: 10 W : 8 D : 1 L : 1 Pts: 25
+    2.Austria GP: 10 W : 6 D : 1 L : 3 Pts: 19
+    3.North Macedonia GP: 10 W : 4 D : 2 L : 4 Pts: 14
+    4.Slovenia GP: 10 W : 4 D : 2 L : 4 Pts: 14
+    5.Israel GP: 10 W : 3 D : 2 L : 5 Pts: 11
+    6.Latvia GP: 10 W : 1 D : 0 L : 9 Pts: 3
+Group H
+    1.France GP: 10 W : 8 D : 1 L : 1 Pts: 25
+    2.Turkey GP: 10 W : 7 D : 2 L : 1 Pts: 23
+    3.Iceland GP: 10 W : 6 D : 1 L : 3 Pts: 19
+    4.Albania GP: 10 W : 4 D : 1 L : 5 Pts: 13
+    5.Andorra GP: 10 W : 1 D : 1 L : 8 Pts: 4
+    6.Moldova GP: 10 W : 1 D : 0 L : 9 Pts: 3
+Group I
+    1.Belgium GP: 10 W : 10 D : 0 L : 0 Pts: 30
+    2.Russia GP: 10 W : 8 D : 0 L : 2 Pts: 24
+    3.Scotland GP: 10 W : 5 D : 0 L : 5 Pts: 15
+    4.Cyprus GP: 10 W : 3 D : 1 L : 6 Pts: 10
+    5.Kazakhstan GP: 10 W : 3 D : 1 L : 6 Pts: 10
+    6.San Marino GP: 10 W : 0 D : 0 L : 10 Pts: 0
+Group J
+    1.Italy GP: 10 W : 10 D : 0 L : 0 Pts: 30
+    2.Finland GP: 10 W : 6 D : 0 L : 4 Pts: 18
+    3.Greece GP: 10 W : 4 D : 2 L : 4 Pts: 14
+    4.Bosnia-Herzegovina GP: 10 W : 4 D : 1 L : 5 Pts: 13
+    5.Armenia GP: 10 W : 3 D : 1 L : 6 Pts: 10
+    6.Liechtenstein GP: 10 W : 0 D : 2 L : 8 Pts: 2
+
+>> Europa League
+Group A
+    1.Roma GP: 3 W : 2 D : 1 L : 0 Pts: 7
+    2.Young Boys GP: 3 W : 1 D : 1 L : 1 Pts: 4
+    3.CFR Cluj GP: 3 W : 1 D : 1 L : 1 Pts: 4
+    4.CSKA Sofia GP: 3 W : 0 D : 1 L : 2 Pts: 1
+Group B
+    1.Arsenal GP: 3 W : 3 D : 0 L : 0 Pts: 9
+    2.Molde GP: 3 W : 2 D : 0 L : 1 Pts: 6
+    3.Rapid Vienna GP: 3 W : 1 D : 0 L : 2 Pts: 3
+    4.Dundalk GP: 3 W : 0 D : 0 L : 3 Pts: 0
+Group C
+    1.Slavia Prague GP: 3 W : 2 D : 0 L : 1 Pts: 6
+    2.Leverkusen GP: 3 W : 2 D : 0 L : 1 Pts: 6
+    3.Nice GP: 3 W : 1 D : 0 L : 2 Pts: 3
+    4.Hapoel Beer Sheva GP: 3 W : 1 D : 0 L : 2 Pts: 3
+Group D
+    1.Rangers GP: 3 W : 2 D : 1 L : 0 Pts: 7
+    2.Benfica GP: 3 W : 2 D : 1 L : 0 Pts: 7
+    3.Lech Poznan GP: 3 W : 1 D : 0 L : 2 Pts: 3
+    4.Standard Liege GP: 3 W : 0 D : 0 L : 3 Pts: 0
+Group E
+    1.Granada GP: 3 W : 2 D : 1 L : 0 Pts: 7
+    2.PAOK GP: 3 W : 1 D : 2 L : 0 Pts: 5
+    3.PSV GP: 3 W : 1 D : 0 L : 2 Pts: 3
+    4.Omonia Nicosia GP: 3 W : 0 D : 1 L : 2 Pts: 1
+Group F
+    1.AZ GP: 3 W : 2 D : 0 L : 1 Pts: 6
+    2.Napoli GP: 3 W : 2 D : 0 L : 1 Pts: 6
+    3.Real Sociedad GP: 3 W : 2 D : 0 L : 1 Pts: 6
+    4.Rijeka GP: 3 W : 0 D : 0 L : 3 Pts: 0
+Group G
+    1.Leicester GP: 3 W : 3 D : 0 L : 0 Pts: 9
+    2.SC Braga GP: 3 W : 2 D : 0 L : 1 Pts: 6
+    3.AEK Athens GP: 3 W : 1 D : 0 L : 2 Pts: 3
+    4.Zorya GP: 3 W : 0 D : 0 L : 3 Pts: 0
+Group H
+    1.Lille GP: 3 W : 2 D : 1 L : 0 Pts: 7
+    2.AC Milan GP: 3 W : 2 D : 0 L : 1 Pts: 6
+    3.Sparta Prague GP: 3 W : 1 D : 0 L : 2 Pts: 3
+    4.Celtic GP: 3 W : 0 D : 1 L : 2 Pts: 1
+Group I
+    1.Villarreal GP: 3 W : 3 D : 0 L : 0 Pts: 9
+    2.Maccabi Tel-Aviv GP: 3 W : 2 D : 0 L : 1 Pts: 6
+    3.Sivasspor GP: 3 W : 1 D : 0 L : 2 Pts: 3
+    4.Karabakh GP: 3 W : 0 D : 0 L : 3 Pts: 0
+Group J
+    1.Spurs GP: 3 W : 2 D : 0 L : 1 Pts: 6
+    2.Antwerp GP: 3 W : 2 D : 0 L : 1 Pts: 6
+    3.LASK GP: 3 W : 2 D : 0 L : 1 Pts: 6
+    4.Ludogorets GP: 3 W : 0 D : 0 L : 3 Pts: 0
+Group K
+    1.D Zagreb GP: 3 W : 1 D : 2 L : 0 Pts: 5
+    2.Wolfsberger AC GP: 3 W : 1 D : 1 L : 1 Pts: 4
+    3.Feyenoord GP: 3 W : 1 D : 1 L : 1 Pts: 4
+    4.CSKA Moscow GP: 3 W : 0 D : 2 L : 1 Pts: 2
+Group L
+    1.Hoffenheim GP: 3 W : 3 D : 0 L : 0 Pts: 9
+    2.Red Star Belgrade GP: 3 W : 2 D : 0 L : 1 Pts: 6
+    3.Liberec GP: 3 W : 1 D : 0 L : 2 Pts: 3
+    4.Gent GP: 3 W : 0 D : 0 L : 3 Pts: 0
+
+>> Championship
+1.Reading GP: 10 W : 7 D : 1 L : 2 Pts: 22
+2.Bristol City GP: 11 W : 6 D : 2 L : 3 Pts: 20
+3.Swansea GP: 10 W : 5 D : 4 L : 1 Pts: 19
+4.Norwich GP: 10 W : 5 D : 3 L : 2 Pts: 18
+5.Watford GP: 10 W : 5 D : 3 L : 2 Pts: 18
+6.AFC Bournemouth GP: 10 W : 4 D : 5 L : 1 Pts: 17
+7.Middlesbrough GP: 10 W : 4 D : 5 L : 1 Pts: 17
+8.Millwall GP: 10 W : 4 D : 4 L : 2 Pts: 16
+9.Luton GP: 10 W : 5 D : 1 L : 4 Pts: 16
+10.Brentford GP: 10 W : 4 D : 3 L : 3 Pts: 15
+11.Stoke GP: 10 W : 4 D : 3 L : 3 Pts: 15
+12.Preston North End GP: 10 W : 4 D : 1 L : 5 Pts: 13
+13.Cardiff GP: 11 W : 3 D : 4 L : 4 Pts: 13
+14.Birmingham GP: 10 W : 3 D : 4 L : 3 Pts: 13
+15.Huddersfield GP: 10 W : 4 D : 1 L : 5 Pts: 13
+16.QPR GP: 10 W : 3 D : 4 L : 3 Pts: 13
+17.Blackburn GP: 10 W : 3 D : 2 L : 5 Pts: 11
+18.Barnsley GP: 10 W : 2 D : 4 L : 4 Pts: 10
+19.Rotherham GP: 10 W : 2 D : 3 L : 5 Pts: 9
+20.Nottm Forest GP: 10 W : 2 D : 3 L : 5 Pts: 9
+21.Coventry GP: 10 W : 2 D : 2 L : 6 Pts: 8
+22.Wycombe GP: 10 W : 2 D : 1 L : 7 Pts: 7
+23.Derby GP: 10 W : 1 D : 3 L : 6 Pts: 6
+24.Sheff Wed GP: 10 W : 3 D : 2 L : 5 Pts: 5
+
+>> Scottish Premiership
+1.Rangers GP: 13 W : 11 D : 2 L : 0 Pts: 35
+2.Celtic GP: 11 W : 8 D : 2 L : 1 Pts: 26
+3.Aberdeen GP: 12 W : 8 D : 2 L : 2 Pts: 26
+4.Hibernian GP: 13 W : 7 D : 3 L : 3 Pts: 24
+5.Dundee Utd GP: 14 W : 4 D : 5 L : 5 Pts: 17
+6.Kilmarnock GP: 13 W : 4 D : 2 L : 7 Pts: 14
+7.Motherwell GP: 11 W : 4 D : 2 L : 5 Pts: 14
+8.St Johnstone GP: 13 W : 4 D : 2 L : 7 Pts: 14
+9.Ross County GP: 14 W : 3 D : 4 L : 7 Pts: 13
+10.Livingston GP: 14 W : 3 D : 3 L : 8 Pts: 12
+11.St Mirren GP: 11 W : 2 D : 2 L : 7 Pts: 8
+12.Hamilton GP: 11 W : 2 D : 1 L : 8 Pts: 7
+
+>> League One
+1.Peterborough GP: 11 W : 8 D : 1 L : 2 Pts: 25
+2.Ipswich GP: 11 W : 7 D : 1 L : 3 Pts: 22
+3.Charlton GP: 10 W : 7 D : 1 L : 2 Pts: 22
+4.Lincoln GP: 11 W : 7 D : 1 L : 3 Pts: 22
+5.Hull GP: 10 W : 7 D : 0 L : 3 Pts: 21
+6.Sunderland GP: 10 W : 6 D : 3 L : 1 Pts: 21
+7.Portsmouth GP: 11 W : 6 D : 2 L : 3 Pts: 20
+8.Plymouth GP: 10 W : 5 D : 3 L : 2 Pts: 18
+9.Doncaster GP: 10 W : 5 D : 2 L : 3 Pts: 17
+10.Fleetwood GP: 11 W : 5 D : 1 L : 5 Pts: 16
+11.Wimbledon GP: 11 W : 3 D : 5 L : 3 Pts: 14
+12.Blackpool GP: 11 W : 4 D : 1 L : 6 Pts: 13
+13.Gillingham GP: 11 W : 4 D : 1 L : 6 Pts: 13
+14.Accrington GP: 7 W : 4 D : 0 L : 3 Pts: 12
+15.Bristol Rovers GP: 10 W : 3 D : 3 L : 4 Pts: 12
+16.Rochdale GP: 11 W : 3 D : 3 L : 5 Pts: 12
+17.Northampton GP: 11 W : 3 D : 2 L : 6 Pts: 11
+18.Crewe GP: 10 W : 3 D : 1 L : 6 Pts: 10
+19.MK Dons GP: 11 W : 2 D : 4 L : 5 Pts: 10
+20.Swindon GP: 9 W : 3 D : 0 L : 6 Pts: 9
+21.Oxford Utd GP: 9 W : 3 D : 0 L : 6 Pts: 9
+22.Shrewsbury GP: 10 W : 1 D : 4 L : 5 Pts: 7
+23.Burton A GP: 11 W : 1 D : 4 L : 6 Pts: 7
+24.Wigan GP: 11 W : 2 D : 1 L : 8 Pts: 7
+
+>> League Two
+1.Newport GP: 11 W : 8 D : 1 L : 2 Pts: 25
+2.Cambridge GP: 11 W : 7 D : 2 L : 2 Pts: 23
+3.Forest Green GP: 11 W : 6 D : 3 L : 2 Pts: 21
+4.Exeter GP: 11 W : 5 D : 5 L : 1 Pts: 20
+5.Carlisle GP: 11 W : 6 D : 2 L : 3 Pts: 20
+6.Cheltenham GP: 11 W : 6 D : 1 L : 4 Pts: 19
+7.Port Vale GP: 10 W : 6 D : 1 L : 3 Pts: 19
+8.Crawley GP: 11 W : 5 D : 2 L : 4 Pts: 17
+9.Morecambe GP: 11 W : 5 D : 2 L : 4 Pts: 17
+10.Salford City GP: 10 W : 4 D : 4 L : 2 Pts: 16
+11.Colchester GP: 10 W : 4 D : 4 L : 2 Pts: 16
+12.Walsall GP: 11 W : 3 D : 7 L : 1 Pts: 16
+13.Leyton Orient GP: 11 W : 4 D : 3 L : 4 Pts: 15
+14.Harrogate GP: 11 W : 4 D : 3 L : 4 Pts: 15
+15.Bradford City GP: 10 W : 3 D : 3 L : 4 Pts: 12
+16.Grimsby GP: 10 W : 3 D : 3 L : 4 Pts: 12
+17.Tranmere GP: 11 W : 3 D : 3 L : 5 Pts: 12
+18.Barrow GP: 11 W : 2 D : 5 L : 4 Pts: 11
+19.Oldham GP: 11 W : 3 D : 2 L : 6 Pts: 11
+20.Bolton GP: 11 W : 2 D : 4 L : 5 Pts: 10
+21.Stevenage GP: 11 W : 1 D : 4 L : 6 Pts: 7
+22.Mansfield GP: 11 W : 0 D : 7 L : 4 Pts: 7
+23.Scunthorpe GP: 8 W : 1 D : 1 L : 6 Pts: 4
+24.Southend GP: 11 W : 0 D : 2 L : 9 Pts: 2
+
+>> Scottish Championship
+1.Dunfermline GP: 3 W : 3 D : 0 L : 0 Pts: 9
+2.Raith GP: 3 W : 2 D : 1 L : 0 Pts: 7
+3.Hearts GP: 2 W : 2 D : 0 L : 0 Pts: 6
+4.Morton GP: 3 W : 2 D : 0 L : 1 Pts: 6
+5.Dundee GP: 4 W : 1 D : 2 L : 1 Pts: 5
+6.Ayr GP: 3 W : 1 D : 1 L : 1 Pts: 4
+7.Inverness GP: 3 W : 1 D : 1 L : 1 Pts: 4
+8.Alloa GP: 3 W : 0 D : 1 L : 2 Pts: 1
+9.QOS FC GP: 3 W : 0 D : 0 L : 3 Pts: 0
+10.Arbroath GP: 3 W : 0 D : 0 L : 3 Pts: 0
+
+>> Scottish League One
+1.Cove Rangers GP: 3 W : 3 D : 0 L : 0 Pts: 9
+2.Falkirk GP: 3 W : 2 D : 1 L : 0 Pts: 7
+3.Dumbarton GP: 3 W : 2 D : 1 L : 0 Pts: 7
+4.Montrose GP: 3 W : 1 D : 1 L : 1 Pts: 4
+5.Airdrie GP: 3 W : 1 D : 0 L : 2 Pts: 3
+6.Partick GP: 3 W : 1 D : 0 L : 2 Pts: 3
+7.Peterhead GP: 3 W : 1 D : 0 L : 2 Pts: 3
+8.Clyde GP: 3 W : 1 D : 0 L : 2 Pts: 3
+9.Forfar GP: 3 W : 0 D : 2 L : 1 Pts: 2
+10.East Fife GP: 3 W : 0 D : 1 L : 2 Pts: 1
+
+>> Scottish League Two
+1.Queen's Park GP: 3 W : 2 D : 1 L : 0 Pts: 7
+2.Elgin GP: 3 W : 2 D : 0 L : 1 Pts: 6
+3.Edinburgh City GP: 3 W : 2 D : 0 L : 1 Pts: 6
+4.Stenhousemuir GP: 3 W : 1 D : 2 L : 0 Pts: 5
+5.Stirling Albion GP: 3 W : 1 D : 2 L : 0 Pts: 5
+6.Annan GP: 3 W : 1 D : 1 L : 1 Pts: 4
+7.Cowdenbeath GP: 3 W : 1 D : 1 L : 1 Pts: 4
+8.Brechin GP: 3 W : 1 D : 0 L : 2 Pts: 3
+9.Stranraer GP: 3 W : 0 D : 1 L : 2 Pts: 1
+10.Albion GP: 3 W : 0 D : 0 L : 3 Pts: 0
+
+>> Scottish League Cup
+Group A
+    1.Hearts GP: 3 W : 3 D : 0 L : 0 Pts: 9
+    2.East Fife GP: 2 W : 1 D : 0 L : 1 Pts: 3
+    3.Raith GP: 2 W : 1 D : 0 L : 1 Pts: 3
+    4.Inverness GP: 2 W : 0 D : 1 L : 1 Pts: 2
+    5.Cowdenbeath GP: 3 W : 0 D : 1 L : 2 Pts: 1
+Group B
+    1.Hibernian GP: 3 W : 3 D : 0 L : 0 Pts: 9
+    2.Dundee GP: 2 W : 2 D : 0 L : 0 Pts: 6
+    3.Cove Rangers GP: 2 W : 0 D : 1 L : 1 Pts: 2
+    4.Brora GP: 3 W : 0 D : 1 L : 2 Pts: 1
+    5.Forfar GP: 2 W : 0 D : 0 L : 2 Pts: 0
+Group C
+    1.St Johnstone GP: 2 W : 2 D : 0 L : 0 Pts: 6
+    2.Dundee Utd GP: 3 W : 2 D : 0 L : 1 Pts: 6
+    3.Peterhead GP: 2 W : 2 D : 0 L : 0 Pts: 6
+    4.Kelty Hearts GP: 2 W : 0 D : 0 L : 2 Pts: 0
+    5.Brechin GP: 3 W : 0 D : 0 L : 3 Pts: 0
+Group D
+    1.Elgin GP: 2 W : 2 D : 0 L : 0 Pts: 6
+    2.Arbroath GP: 3 W : 2 D : 0 L : 1 Pts: 6
+    3.Ross County GP: 2 W : 1 D : 1 L : 0 Pts: 5
+    4.Montrose GP: 3 W : 0 D : 1 L : 2 Pts: 1
+    5.Stirling Albion GP: 2 W : 0 D : 0 L : 2 Pts: 0
+Group E
+    1.Dunfermline GP: 3 W : 3 D : 0 L : 0 Pts: 9
+    2.Falkirk GP: 3 W : 2 D : 0 L : 1 Pts: 6
+    3.Clyde GP: 2 W : 1 D : 0 L : 1 Pts: 3
+    4.Dumbarton GP: 2 W : 0 D : 0 L : 2 Pts: 0
+    5.Kilmarnock GP: 2 W : 0 D : 0 L : 2 Pts: 0
+Group F
+    1.Ayr GP: 3 W : 2 D : 0 L : 1 Pts: 6
+    2.Annan GP: 3 W : 1 D : 1 L : 1 Pts: 4
+    3.Stranraer GP: 2 W : 0 D : 2 L : 0 Pts: 3
+    4.Hamilton GP: 2 W : 1 D : 0 L : 1 Pts: 3
+    5.Albion GP: 2 W : 0 D : 1 L : 1 Pts: 1
+Group G
+    1.St Mirren GP: 2 W : 1 D : 1 L : 0 Pts: 5
+    2.Partick GP: 3 W : 1 D : 1 L : 1 Pts: 5
+    3.Morton GP: 2 W : 1 D : 1 L : 0 Pts: 4
+    4.QOS FC GP: 3 W : 0 D : 3 L : 0 Pts: 4
+    5.Queen's Park GP: 2 W : 0 D : 0 L : 2 Pts: 0
+Group H
+    1.Livingston GP: 2 W : 2 D : 0 L : 0 Pts: 6
+    2.Alloa GP: 3 W : 2 D : 0 L : 1 Pts: 6
+    3.Airdrie GP: 2 W : 1 D : 0 L : 1 Pts: 3
+    4.Stenhousemuir GP: 2 W : 0 D : 1 L : 1 Pts: 2
+    5.Edinburgh City GP: 3 W : 0 D : 1 L : 2 Pts: 1
+
+>> Nations League
+League A
+    1.Poland GP: 4 W : 2 D : 1 L : 1 Pts: 7
+    2.Italy GP: 4 W : 1 D : 3 L : 0 Pts: 6
+    3.The Netherlands GP: 4 W : 1 D : 2 L : 1 Pts: 5
+    4.Bosnia-Herzegovina GP: 4 W : 0 D : 2 L : 2 Pts: 2
+League A
+    1.Belgium GP: 4 W : 3 D : 0 L : 1 Pts: 9
+    2.Denmark GP: 4 W : 2 D : 1 L : 1 Pts: 7
+    3.England GP: 4 W : 2 D : 1 L : 1 Pts: 7
+    4.Iceland GP: 4 W : 0 D : 0 L : 4 Pts: 0
+League A
+    1.Portugal GP: 4 W : 3 D : 1 L : 0 Pts: 10
+    2.France GP: 4 W : 3 D : 1 L : 0 Pts: 10
+    3.Croatia GP: 4 W : 1 D : 0 L : 3 Pts: 3
+    4.Sweden GP: 4 W : 0 D : 0 L : 4 Pts: 0
+League A
+    1.Spain GP: 4 W : 2 D : 1 L : 1 Pts: 7
+    2.Germany GP: 4 W : 1 D : 3 L : 0 Pts: 6
+    3.Ukraine GP: 4 W : 2 D : 0 L : 2 Pts: 6
+    4.Switzerland GP: 4 W : 0 D : 2 L : 2 Pts: 2
+League B
+    1.Norway GP: 4 W : 3 D : 0 L : 1 Pts: 9
+    2.Austria GP: 4 W : 3 D : 0 L : 1 Pts: 9
+    3.Romania GP: 4 W : 1 D : 1 L : 2 Pts: 4
+    4.Northern Ireland GP: 4 W : 0 D : 1 L : 3 Pts: 1
+League B
+    1.Scotland GP: 4 W : 3 D : 1 L : 0 Pts: 10
+    2.Czech Republic GP: 4 W : 2 D : 0 L : 2 Pts: 6
+    3.Israel GP: 4 W : 1 D : 2 L : 1 Pts: 5
+    4.Slovakia GP: 4 W : 0 D : 1 L : 3 Pts: 1
+League B
+    1.Russia GP: 4 W : 2 D : 2 L : 0 Pts: 8
+    2.Hungary GP: 4 W : 2 D : 1 L : 1 Pts: 7
+    3.Turkey GP: 4 W : 0 D : 3 L : 1 Pts: 3
+    4.Serbia GP: 4 W : 0 D : 2 L : 2 Pts: 2
+League B
+    1.Wales GP: 4 W : 3 D : 1 L : 0 Pts: 10
+    2.Finland GP: 4 W : 3 D : 0 L : 1 Pts: 9
+    3.Rep of Ireland GP: 4 W : 0 D : 2 L : 2 Pts: 2
+    4.Bulgaria GP: 4 W : 0 D : 1 L : 3 Pts: 1
+League C
+    1.Montenegro GP: 4 W : 3 D : 0 L : 1 Pts: 9
+    2.Luxembourg GP: 4 W : 3 D : 0 L : 1 Pts: 9
+    3.Azerbaijan GP: 4 W : 1 D : 1 L : 2 Pts: 4
+    4.Cyprus GP: 4 W : 0 D : 1 L : 3 Pts: 1
+League C
+    1.North Macedonia GP: 4 W : 1 D : 3 L : 0 Pts: 6
+    2.Georgia GP: 4 W : 1 D : 3 L : 0 Pts: 6
+    3.Armenia GP: 4 W : 1 D : 2 L : 1 Pts: 5
+    4.Estonia GP: 4 W : 0 D : 2 L : 2 Pts: 2
+League C
+    1.Slovenia GP: 4 W : 3 D : 1 L : 0 Pts: 10
+    2.Greece GP: 4 W : 2 D : 2 L : 0 Pts: 8
+    3.Kosovo GP: 4 W : 0 D : 2 L : 2 Pts: 2
+    4.Moldova GP: 4 W : 0 D : 1 L : 3 Pts: 1
+League C
+    1.Belarus GP: 4 W : 2 D : 1 L : 1 Pts: 7
+    2.Albania GP: 4 W : 1 D : 2 L : 1 Pts: 5
+    3.Lithuania GP: 4 W : 1 D : 2 L : 1 Pts: 5
+    4.Kazakhstan GP: 4 W : 1 D : 1 L : 2 Pts: 4
+League D
+    1.Faroe Islands GP: 4 W : 3 D : 1 L : 0 Pts: 10
+    2.Malta GP: 4 W : 1 D : 2 L : 1 Pts: 5
+    3.Latvia GP: 4 W : 0 D : 3 L : 1 Pts: 3
+    4.Andorra GP: 4 W : 0 D : 2 L : 2 Pts: 2
+League D
+    1.Gibraltar GP: 2 W : 2 D : 0 L : 0 Pts: 6
+    2.Liechtenstein GP: 3 W : 1 D : 1 L : 1 Pts: 4
+    3.San Marino GP: 3 W : 0 D : 1 L : 2 Pts: 1
