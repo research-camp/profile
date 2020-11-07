@@ -12,7 +12,7 @@ body {
 table {
     margin: 60px auto;
     border: 11px solid #FFEB3B;
-    border-radius: 5px;
+    border-radius: 10px;
     border-collapse: collapse;
 }
 
@@ -24,6 +24,10 @@ td, th {
 
 tr {
     background: #a20b27;
+}
+
+tr:hover {
+	background-color: black;
 }
 
 h2, h3 {
