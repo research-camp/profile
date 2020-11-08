@@ -17,6 +17,7 @@ table {
     background: #FFEB3B;
     width: 60%;
     font-size: 20px;
+    box-shadow: 10px 10px 5px #4fc97e;
 }
 
 td, th {
@@ -26,11 +27,12 @@ td, th {
 }
 
 tr {
-    background: #a20b27;
+    background: #183b18;
 }
 
 tr:hover {
 	background-color: black;
+	box-shadow: 5px 5px 5px 5px 5px white;
 }
 
 h2, h3 {
