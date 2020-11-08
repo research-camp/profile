@@ -6,14 +6,17 @@ body {
     margin: 0px;
     direction: ltr;
     background: #237226cf;
+    background-image: linear-gradient(to bottom right, #237226cf, white);
     color: white;
 }
 
 table {
     margin: 60px auto;
-    border: 11px solid #FFEB3B;
+    border: 10px solid #FFEB3B;
     border-radius: 10px;
-    border-collapse: collapse;
+    background: #FFEB3B;
+    width: 60%;
+    font-size: 20px;
 }
 
 td, th {
