@@ -1,4 +1,10 @@
 # FootballResults
+Using python scrapy and prettytable to create a program that gives you the results of world football matches. 
+
+# Table of content
+* [Introduction](#Introduction)
+* [Tools](#Tools)
+* [How it works?](#How-it-works)
 
 # Introduction
 This is a python3 script which gets the lates football results around the world !
