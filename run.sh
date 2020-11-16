@@ -1,4 +1,5 @@
 #!/usr/bin/bash
+# This is a simple shell script that makes my git commits every day
 
 commit="$(date +'%b %d %Y')"
 
