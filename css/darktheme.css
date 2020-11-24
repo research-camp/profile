@@ -1,0 +1,35 @@
+table {
+  border: 4px solid #792396;
+  background-color: #555555;
+  text-align: center;
+  border-collapse: collapse;
+} 
+
+td, th {
+  border: 1px solid #555555;
+}
+
+td {
+  font-weight: bold;
+  color: #FFFFFF;
+}
+
+table tr:nth-child(even) {
+  background: #CC3BFC;
+}
+
+table th {
+  background: #792396;
+  border-bottom: 4px solid #792396;
+}
+
+table th {
+  font-weight: bold;
+  color: #FFFFFF;
+  text-align: left;
+  border-left: 2px solid #792396;
+}
+
+table th:first-child {
+  border-left: none;
+}
