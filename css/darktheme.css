@@ -1,8 +1,15 @@
+
+body {
+  background: #bfbfbf;
+  background-image: linear-gradient(to bottom, #4d004d, white);
+}
+
 table {
   border: 4px solid #792396;
   background-color: #555555;
   text-align: center;
   border-collapse: collapse;
+  box-shadow: 10px 10px 5px white;
 } 
 
 td, th {
@@ -14,8 +21,17 @@ td {
   color: #FFFFFF;
 }
 
+td:hover {
+  background-color: black;
+  box-shadow: 5px 5px 5px 5px 5px white;
+}
+
 table tr:nth-child(even) {
   background: #CC3BFC;
+}
+
+table tr:nth-child(odd) {
+  background: #555555;
 }
 
 table th {
