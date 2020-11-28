@@ -1,5 +1,5 @@
 
-CSS_FILE = "../../../../css/style.css"
+CSS_FILE = "../../../../css/darktheme.css"
 META_COMMAND = '<meta charset="utf-8" />'
 LINK_COMMAND = f'<link rel="stylesheet" href="{CSS_FILE}" type="text/css" />'
 
