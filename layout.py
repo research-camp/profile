@@ -1,7 +1,9 @@
 
 CSS_FILE = "../../../../css/darktheme.css"
+CSS_STYLE = "../../../../css/style.css"
 META_COMMAND = '<meta charset="utf-8" />'
 LINK_COMMAND = f'<link rel="stylesheet" href="{CSS_FILE}" type="text/css" />'
+STYLE_COMMAND = f'<link rel="stylesheet" href="{CSS_STYLE}" type="text/css" />'
 
 
 def import_commands(file_path):
@@ -10,7 +12,7 @@ def import_commands(file_path):
 		content = file.read()
 		final_content = "<!DOCTYPE html>\n"
 		final_content += "<html>\n<head>\n"
-		final_content += META_COMMAND + "\n" + LINK_COMMAND + "\n"
+		final_content += META_COMMAND + "\n" + LINK_COMMAND + "\n" + STYLE_COMMAND + "\n"
 		final_content += "</head>\n<body>\n"
 		final_content += content
 		final_content += "\n</body>\n</html>"
