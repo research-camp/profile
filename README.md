@@ -23,4 +23,3 @@ to get all the results we need. After that we use the prettytable to create the 
 And for the last part we add the custom created ".css" file to the html file , so it gets layout.
 
 
-Contact me at : najafizadeh21@gmail.com or officialamirhossein21@gmail.com
