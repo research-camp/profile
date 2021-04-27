@@ -21,5 +21,3 @@ So basically we open a connection to a website that has the football results, an
 to get all the results we need. After that we use the prettytable to create the football tables with the data we have.
 
 And for the last part we add the custom created ".css" file to the html file , so it gets layout.
-
-
