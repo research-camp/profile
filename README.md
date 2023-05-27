@@ -1,5 +1,8 @@
 # HAProxy
 
+![](https://img.shields.io/badge/lang-python-blue)
+![](https://img.shields.io/badge/tool-haproxy-orange)
+
 ```HAProxy``` (High Availability Proxy) is open source proxy and load balancing server software.
 It provides high availability at the network (TCP) and application (HTTP/S) layers,
 improving speed and performance by distributing workload across multiple servers.
