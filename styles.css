@@ -25,6 +25,18 @@ header .container {
     align-items: center;
 }
 
+.link {
+    color: #7AB2B2 !important;
+}
+
+a:visited {
+    color: inherit;
+}
+
+a:hover {
+    color: #CDE8E5;
+}
+
 header h1 {
     margin: 0;
 }
@@ -71,7 +83,7 @@ footer {
 
 .fade-in {
     opacity: 0;
-    transition: opacity 2s ease-in;
+    transition: opacity 1s ease-in;
 }
 
 .fade-in.visible {
