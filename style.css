@@ -1,18 +1,28 @@
 /* Reset default browser styles */
-html, body, header, nav, ul, li, section, div, footer {
+html, body, header, nav, ul, li, section, div, footer, a {
     margin: 0;
     padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
     line-height: 1.6;
+    color: #333;
 }
 
 header {
-    background-color: #333;
+    background-color: #0066cc;
     color: #fff;
-    padding: 20px;
+    padding: 20px 0;
+}
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 header h1 {
@@ -20,17 +30,16 @@ header h1 {
 }
 
 nav ul {
-    list-style: none;
+    display: flex;
 }
 
 nav ul li {
-    display: inline;
-    margin-right: 20px;
+    margin-left: 20px;
 }
 
 nav ul li a {
     color: #fff;
-    text-decoration: none;
+    font-weight: bold;
 }
 
 .container {
@@ -40,12 +49,31 @@ nav ul li a {
 }
 
 section {
-    padding: 40px 0;
+    padding: 60px 0;
+}
+
+section h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #0066cc;
+}
+
+section p {
+    margin-bottom: 20px;
 }
 
 footer {
-    background-color: #333;
+    background-color: #0066cc;
     color: #fff;
     text-align: center;
-    padding: 20px;
+    padding: 20px 0;
+}
+
+.fade-in {
+    opacity: 0;
+    transition: opacity 2s ease-in;
+}
+
+.fade-in.visible {
+    opacity: 1;
 }
