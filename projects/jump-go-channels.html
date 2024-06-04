@@ -1,18 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Project 2</title>
-    <link rel="stylesheet" href="../styles.css">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>
+        ResearchCamp: Jump Go Channels
+    </title>
+    <link rel="stylesheet" href="../styles.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous" />
 </head>
 <body>
     <header>
         <div class="container">
-            <h1>Project 2</h1>
+            <h1>Jump Go Channels</h1>
             <nav>
-                <ul>
+                <ul class="mb-0">
                     <li><a href="../index.html">Home</a></li>
                 </ul>
             </nav>
@@ -21,14 +24,36 @@
 
     <section class="fade-in">
         <div class="container">
-            <h2>Project 2 Details</h2>
-            <p>Description of Project 2...</p>
+            <h2 class="mb-3">Jump Go Channels Details</h2>
+            <p class="mb-5" style="text-align: justify;">
+                Channels are parts of memory that are being used by Goroutines in order to transfer data between themselves. Goroutines are like processes in an operating system. Each channel provides a message queue in which Goroutines send data. Moreover, another Goroutine can listen on a channel in order to receive data from it. The algorithm of these channels is first come first server (aka FCFS). Therefore, we implemented a method in order to jump over low priority tasks in Golang channels queues. In this paper we are going to explain our solution and compare it to old fashion Golang channels to see its benefits.
+            </p>
+            <div class="mb-5">
+                <h5>
+                    References
+                </h5>
+                <ul class="mb-0">
+                    <li><a class="text-primary" href="https://github.com/research-camp/jump-go-channels">github.com/research-camp/jump-go-channels</a></li>
+                    <li><a class="text-primary" href="https://www.researchgate.net/publication/373271512_Jump_over_Golang_channels">researchgate.net/publications</a></li>
+                </ul>
+            </div>
+            <div>
+                <h5>
+                    Members
+                </h5>
+                <ul class="mb-0">
+                    <li>Amirhossein Najafizadeh</li>
+                    <li>Prof. Seyed Ahmad Javadi</li>
+                </ul>
+            </div>
         </div>
     </section>
 
     <footer>
         <div class="container">
-            <p>&copy; 2024 Research Group</p>
+            <p class="mb-0">all rights are reserved</p>
+            <p class="mb-0">&copy; 2024 ResearchCamp</p>
+            <small>created by researchcamp development group</small>
         </div>
     </footer>
     
