@@ -14,8 +14,8 @@ body {
 }
 
 header {
-    background-color: #0066cc;
-    color: #fff;
+    background-color: #4D869C;
+    color: #EEF7FF;
     padding: 20px 0;
 }
 
@@ -38,7 +38,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff;
+    color: #EEF7FF;
     font-weight: bold;
 }
 
@@ -55,7 +55,7 @@ section {
 section h2 {
     margin-bottom: 20px;
     font-size: 24px;
-    color: #0066cc;
+    color: #4D869C;
 }
 
 section p {
@@ -63,8 +63,8 @@ section p {
 }
 
 footer {
-    background-color: #0066cc;
-    color: #fff;
+    background-color: #4D869C;
+    color: #EEF7FF;
     text-align: center;
     padding: 20px 0;
 }
