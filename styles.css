@@ -29,12 +29,16 @@ header .container {
     color: #7AB2B2 !important;
 }
 
+a {
+    text-decoration: none !important;
+}
+
 a:visited {
     color: inherit;
 }
 
 a:hover {
-    color: #CDE8E5;
+    color: #CDE8E5 !important;
 }
 
 header h1 {
@@ -79,6 +83,10 @@ footer {
     color: #EEF7FF;
     text-align: center;
     padding: 20px 0;
+}
+
+.highlight {
+    background-color: #4D869C !important;
 }
 
 .fade-in {
