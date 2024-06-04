@@ -55,9 +55,9 @@ nav ul li a {
 }
 
 .container {
-    max-width: 960px;
-    margin: 0 auto;
-    padding: 20px;
+    max-width: 960px !important;
+    margin: 0 auto !important;
+    padding: 20px !important;
 }
 
 section {
@@ -88,4 +88,10 @@ footer {
 
 .fade-in.visible {
     opacity: 1;
+}
+
+.profile-picture {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
 }
