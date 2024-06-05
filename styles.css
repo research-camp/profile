@@ -121,6 +121,10 @@ footer {
         margin-left: 0;
         margin-bottom: 10px;
     }
+
+    .fulex {
+        display: block !important;
+    }
 }
 
 @media (max-width: 480px) {
